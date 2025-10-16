@@ -1,13 +1,4 @@
-# irbrute
-
-![alt text](https://github.com/kdpkdp/irbrute/blob/main/circuit.png?raw=true)
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/a9-3Va7cq7k/0.jpg)](https://www.youtube.com/watch?v=a9-3Va7cq7k "Demo")
-
-## Projects
-
-### Original: IR Remote Control Brute Force
-The original IR remote control project for ESP8266.
+# telescope stepper.
 
 ### New: Telescope Focus Control (ESP-NOW)
 Wireless telescope focus control using ESP-NOW protocol between M5Stack Core2 and Xiao ESP32-S3 with stepper motor control.
